@@ -1,11 +1,11 @@
 <h1 align="center">Hello! I'm Jeff!</h1>
 <h3 align="center">A Full Stack Developer From New Jersey</h3>
 
-- 🔭 I’m currently working on [a Whiskey Drinker Database](https://github.com/Pull-Push/Whiskey)
+- 🔭 I’m currently working on [**a Whiskey Drinker Database**](https://github.com/Pull-Push/Whiskey)
 
 - in addition to **a Task Delegation App**
 
-- also a **Pokemon "Wordle" style game**
+- also a [**Pokemon "Wordle" style game**](https://github.com/Pull-Push/PokeReact)
 
 - 📫 How to reach me **JeffSokolDev@Gmail.com**
 
