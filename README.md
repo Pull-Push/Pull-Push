@@ -1,7 +1,9 @@
 <h1 align="center">Hello! I'm Jeff!</h1>
 <h3 align="center">A Full Stack Developer From New Jersey</h3>
 
-- 🥃 I’m currently working on [**a Whiskey Drinker Database**](https://github.com/Pull-Push/Whiskey)
+- 🔒🔠 I'm working on an [**encrypted chat room service**](https://github.com/Pull-Push/Jester)
+
+- 🥃 also currently working on [**a Whiskey Drinker Database**](https://github.com/Pull-Push/Whiskey)
 
 - 📥 📤 in addition to [**a Task Delegation App**](https://github.com/Pull-Push/delegate)
 
