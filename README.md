@@ -1,13 +1,11 @@
 <h1 align="center">Hello! I'm Jeff!</h1>
-<h3 align="center">A Full Stack Developer From New Jersey</h3>
+<h3 align="center">A Full Stack Developer From New Jersey seeking permanent employment!</h3>
 
-- 🔒🔠 I'm working on an [**encrypted chat room service**](https://github.com/Pull-Push/Jester)
+- 💿 🎧❓ I'm working on an [**Spotify Label Search App**][*coming soon*]
 
-- 🥃 also currently working on [**a Whiskey Drinker Database**](https://github.com/Pull-Push/Whiskey)
+- 📈 🎮 📉 also currently working on [**a Super Smash Brothers Dataset for my friends and I**][*coming soon*]
 
-- 📥 📤 in addition to [**a Task Delegation App**](https://github.com/Pull-Push/delegate)
-
-- 🐭⚡️ also a [**Pokemon "Wordle" style game**](https://github.com/Pull-Push/PokeReact)
+- 🥃 and finally [**a whiskey drinker DB for recommendations and reviews!**][*coming soon*]
 
 - 📫 How to reach me **JeffSokolDev@Gmail.com**
 
