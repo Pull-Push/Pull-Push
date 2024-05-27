@@ -3,7 +3,7 @@
 
 - 💿 🎧❓ I'm working on an [**Spotify Label Search App**][*coming soon*]
 
-- 📈 🎮 📉 also currently working on [**a Super Smash Brothers Dataset for my friends and I**]<a href="https://github.com/Pull-Push/smershdern>Custom Random Smashdown</a>
+- 📈 🎮 📉 also currently working on [**a Super Smash Brothers Dataset for my friends and I**]<a href="https://github.com/Pull-Push/smershdern"> Custom Random Smashdown </a>
 - 🥃 and finally [**a whiskey drinker DB for recommendations and reviews!**][*coming soon*]
 
 - 📫 How to reach me **JeffSokolDev@Gmail.com**
