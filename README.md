@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer From New Jersey seeking permanent employment!</h3>
 
 - 💿 🎧❓ I'm working on an [**Spotify Label Search App**][*coming soon*]
-
+- 📥 🔒 📤 a encrypted chat service using my own encryption algorithm <a href='https://github.com/Pull-Push/Merlin'> Merlin Chat </a>
 - 📈 🎮 📉 also currently working on [**a Super Smash Brothers Dataset for my friends and I**]<a href="https://github.com/Pull-Push/smershdern"> Custom Random Smashdown </a>
 - 🥃 and finally [**a whiskey drinker DB for recommendations and reviews!**]<a href='https://github.com/Pull-Push/Whiskey'> Whiskey Barrel </a>
 
