@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer From New Jersey seeking permanent employment!</h3>
 
 - 📈 🎮 📉 I'm currently working on [**a Super Smash Brothers Custom Random Game ModeI**]<a href="https://github.com/Pull-Push/csd"> Custom Random Smashdown </a>
-- 💿 🎧❓ also, working on an [**Spotify Label Search App**][*coming soon*]
+- ☕ 👓 Dungeons and Dragons E-Commerce Coffee Shop <a href="https://hbv-teal.vercel.app/"> Hero Brew Coffee </a>
 - 📥 🔒 📤 an encrypted chat service using my own encryption algorithm <a href='https://github.com/Pull-Push/Merlin'> Merlin Chat </a>
 - 🥃 and finally [**a whiskey drinker DB for recommendations and reviews!**]<a href='https://github.com/Pull-Push/Whiskey'> Whiskey Barrel </a>
 
