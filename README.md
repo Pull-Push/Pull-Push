@@ -10,13 +10,12 @@ I build web apps end to end, and my day job in public safety communications — 
 ### 🚧 Currently building
 
 - 🚓 **CADence** — a unified in-vehicle comms app for public safety: text chat, live unit mapping, voice radio, and incident pings on a map, all in one place. *(In progress)*
-- 🎧 **Music discovery app** — browse music by record label, powered by MusicBrainz and Discogs, with Spotify deep links for playback. React / Django / PostgreSQL. *(In progress)*
 - 🔐 **[Merlin Chat](https://github.com/Pull-Push/Merlin)** — an encrypted chat service using my own encryption algorithm
 
 
 ### 🛠️ Projects
 
-- 🎧 **Music discovery app** — browse music by record label, powered by MusicBrainz and Discogs, with Spotify deep links for playback. React / Django / PostgreSQL. *(In progress)*
+- 🎧 **[Deep Cut](https://deep-cut-chi.vercel.app/)** — browse music by record label, powered by MusicBrainz and Discogs, with Spotify deep links for playback. React / Django / PostgreSQL. *(In progress)*
 - ☕ **[Hero Brew Coffee](https://hbv-teal.vercel.app/)** — a Dungeons & Dragons–themed e-commerce coffee shop
 - 🎮 **[Custom Random Smashdown](https://github.com/Pull-Push/csd)** — a custom random game mode for Super Smash Bros.
 
